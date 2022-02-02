@@ -1,4 +1,4 @@
-Shopify MERN App - Developer Guide
+Shopify MERN App
 =======================
 
 
